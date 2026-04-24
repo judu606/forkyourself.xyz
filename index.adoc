@@ -81,3 +81,6 @@ If we continue to treat our identity as tribal and monolithic, we risk betraying
 Hopefully this theory helps avoid the systemic failure of self-betrayal, the mind commiting to a path the body and soul cannot sustain.
 
 Discovering an identity that is congruent with our internal self, moves us from being consumers of identity to authors of it.
+
+
+Distributed under the link:LICENSE[MIT License]. Fork Me!
