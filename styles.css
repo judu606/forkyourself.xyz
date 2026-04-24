@@ -1,9 +1,9 @@
 :root {
-    --color-bg: #22272e;    /* Dark Charcoal Blue */
-    --color-text: #adbac7;  /* Soft Grey */
-    --color-border: #444c56;
-    --color-link: #539bf5;
-    --color-code-bg: #373e47;
+    --color-bg: #fbf1c7;    /* Sandstone */
+    --color-text: #282828;  /* Hard Grey */
+    --color-border: #a89984;
+    --color-link: #076678;
+    --color-code-bg: #ebdbb2;
 }
 
 body {

@@ -2,7 +2,7 @@
 :hide-uri-scheme:
 :figure-caption!:
 
-== A Cognitive 'Stack' of personality systems for Individuals
+== A Cognitive 'Stack' of Personality Systems for Individuals
 
 [square]
 * MBTI - https://sakinorva.net/functions
@@ -64,7 +64,7 @@ Modern systems have made the effort and cost of achieving this easier, while inc
 * a house, a high rise suite
 * marriage, polyamory
 
-    Are we able to say we live in a society of self-actualized people?
+==== Are we able to say we live in a society of self-actualized people?
 
 Our Identity as humans is usually thought of in three general ways or subsystems:
 
@@ -83,4 +83,4 @@ Hopefully this theory helps avoid the systemic failure of self-betrayal, the min
 Discovering an identity that is congruent with our internal self, moves us from being consumers of identity to authors of it.
 
 
-Distributed under the link:LICENSE[MIT License]. Fork Me!
+==== Distributed under the link:LICENSE[MIT License]. Fork Me!
