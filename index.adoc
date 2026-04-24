@@ -83,4 +83,4 @@ Hopefully this theory helps avoid the systemic failure of self-betrayal, the min
 Discovering an identity that is congruent with our internal self, moves us from being consumers of identity to authors of it.
 
 
-==== Distributed under the link:LICENSE[MIT License]. Fork Me!
+==== Distributed under the link:LICENSE[MIT License]. link:https://github.com/judu606/forkyourself.xyz.git[Fork Me!]
